@@ -1,0 +1,9 @@
+mat-grid-tile {
+    background: whitesmoke;
+  }
+  .profile-image{
+    max-width: 200px;
+    max-height: 150px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
